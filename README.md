@@ -27,7 +27,7 @@ Con habilidades para el trabajo en equipo, orientación al logro y resolución d
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,angular,oracle,aws,css,html,js,mysql,git,github,docker,postman,eclipse,vscode,bash,swagger,junit,mockito,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=java,spring,angular,aws,css,html,js,mysql,git,github,docker,postman,eclipse,vscode,bash,ps&perline=12" />
   </a>
 </p>
 <br>
