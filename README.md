@@ -11,7 +11,8 @@
 <p align="left">
 🎓 INGENIERO EN FORMACIÓN
 
-Técnico en Análisis y Desarrollo de Software con experiencia en sistemas informáticos, 
+Técnico en Análisis y Desarrollo de Software con experiencia en sistemas informáticos; actualmente me 
+encuentro realizando mis estudios en ingenería de software, y he trabajado en empresas 
 desempeñando funciones como desarrollo de microservicios de Spring Boot con Java, 
 desarrollo de formularios en Angular, bases de datos en Oracle y manejo de herramientas JWT, 
 Swagger, pruebas unitarias utilizando mock y mockito, pruebas con Junit, manejo de Git Bash y Github.
